@@ -1,0 +1,13 @@
+#IDE文件
+.vs/
+.idea/
+.vscode/
+_ReSharper.CSharp/
+
+#svn
+*/.svn/
+.svn/
+
+# Build results
+x64/
+x86/
